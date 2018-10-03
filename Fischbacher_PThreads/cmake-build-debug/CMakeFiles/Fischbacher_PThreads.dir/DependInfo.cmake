@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/fischi/Dokumente/Schule/POS/Projects/Fischbacher_PThreads/main.cpp" "/home/fischi/Dokumente/Schule/POS/Projects/Fischbacher_PThreads/cmake-build-debug/CMakeFiles/Fischbacher_PThreads.dir/main.cpp.o"
+  "C:/Users/i1207/CLionProjects/school/Fischbacher_PThreads/main.cpp" "C:/Users/i1207/CLionProjects/school/Fischbacher_PThreads/cmake-build-debug/CMakeFiles/Fischbacher_PThreads.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

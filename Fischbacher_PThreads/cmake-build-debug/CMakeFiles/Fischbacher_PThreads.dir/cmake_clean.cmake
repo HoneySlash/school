@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Fischbacher_PThreads.dir/main.cpp.o"
+  "CMakeFiles/Fischbacher_PThreads.dir/main.cpp.obj"
   "Fischbacher_PThreads.pdb"
-  "Fischbacher_PThreads"
+  "Fischbacher_PThreads.exe"
+  "Fischbacher_PThreads.exe.manifest"
+  "libFischbacher_PThreads.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
