@@ -8,8 +8,8 @@ class:5BHIF
 catnr:01
 */
 
-#include "display.h"
-#include "customerCounter.h"
+#include "../include/display.h"
+#include "../include/customerCounter.h"
 #include <iostream>
 #include <unistd.h>
 

@@ -12,8 +12,6 @@ catnr:01
 #ifndef FISCHBACHER_PTHREADS_NUMBERGENERATOR_H
 #define FISCHBACHER_PTHREADS_NUMBERGENERATOR_H
 
-#pragma once
-
 class NumberGenerator
 {
 private:

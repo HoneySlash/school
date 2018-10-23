@@ -12,8 +12,6 @@ catnr:01
 #define FISCHBACHER_PTHREADS_CUSTOMER_H
 
 
-#pragma once
-
 class Display;
 class Customer
 {

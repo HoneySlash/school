@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g  -rdynamic CMakeFiles/Fischbacher_PThreads.dir/src/main.cpp.o CMakeFiles/Fischbacher_PThreads.dir/src/customer.cpp.o CMakeFiles/Fischbacher_PThreads.dir/src/customerCounter.cpp.o CMakeFiles/Fischbacher_PThreads.dir/src/display.cpp.o CMakeFiles/Fischbacher_PThreads.dir/src/numberGenerator.cpp.o  -o Fischbacher_PThreads -lpthread 

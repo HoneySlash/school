@@ -1,3 +1,3 @@
-C:/Users/i1207/CLionProjects/school/Fischbacher_PThreads/cmake-build-debug/CMakeFiles/Fischbacher_PThreads.dir
-C:/Users/i1207/CLionProjects/school/Fischbacher_PThreads/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/i1207/CLionProjects/school/Fischbacher_PThreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/cmake-build-debug/CMakeFiles/PThreads.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/customer.h
+
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/customerCounter.h
+
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/display.h
+pthread.h
+-
+
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/main.cpp
+display.h
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/display.h
+customer.h
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/customer.h
+customerCounter.h
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/customerCounter.h
+numberGenerator.h
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/numberGenerator.h
+thread
+-
+iostream
+-
+unistd.h
+-
+
+/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/numberGenerator.h
+

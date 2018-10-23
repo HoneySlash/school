@@ -11,10 +11,6 @@ catnr:01
 #ifndef FISCHBACHER_PTHREADS_DISPLAY_H
 #define FISCHBACHER_PTHREADS_DISPLAY_H
 
-
-#pragma once
-
-#pragma once
 #include <pthread.h>
 
 class CustomerCounter;

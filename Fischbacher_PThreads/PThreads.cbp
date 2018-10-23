@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PThreads"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fischbacher_PThreads">
+				<Option output="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Fischbacher_PThreads" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/./include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 Fischbacher_PThreads"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fischbacher_PThreads/fast">
+				<Option output="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Fischbacher_PThreads" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/./include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 Fischbacher_PThreads/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/src/customer.cpp">
+			<Option target="Fischbacher_PThreads"/>
+		</Unit>
+		<Unit filename="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/src/customerCounter.cpp">
+			<Option target="Fischbacher_PThreads"/>
+		</Unit>
+		<Unit filename="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/src/display.cpp">
+			<Option target="Fischbacher_PThreads"/>
+		</Unit>
+		<Unit filename="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/src/main.cpp">
+			<Option target="Fischbacher_PThreads"/>
+		</Unit>
+		<Unit filename="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/src/numberGenerator.cpp">
+			<Option target="Fischbacher_PThreads"/>
+		</Unit>
+		<Unit filename="/home/fischi/Dokumente/Schule/POS/Projects/school/Fischbacher_PThreads/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

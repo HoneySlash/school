@@ -1,6 +1,14 @@
-cmake_minimum_required(VERSION 3.12)
-project(Fischbacher_PThreads)
+cmake_minimum_required(VERSION 3.0.0)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+project(PThreads VERSION 0.1.0)
 
-set(CMAKE_CXX_STANDARD 14)
+file(GLOB SRCS
+        "src/*.cpp"
+        )
 
-add_executable(Fischbacher_PThreads main.cpp)
+include_directories("./include")
+add_executable(Fischbacher_PThreads src/main.cpp ${SRCS})
+
+TARGET_LINK_LIBRARIES( Fischbacher_PThreads
+        pthread
+        )
