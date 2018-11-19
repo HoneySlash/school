@@ -10,11 +10,13 @@ Berndt Fischbacher
 #include <vector>
 #include <math.h>
 #include <unistd.h> 
+#include <mutex>
 
 using namespace std;
 
 static const unsigned int ms = 10;
 static const double PI = 3.14159265;
+mutex m;
 
 void work(){
     for(int i = 0;i < 1000; i++){
